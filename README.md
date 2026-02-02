@@ -43,9 +43,9 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamadgul7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=hamadgul7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamadgul7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamadgul7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
