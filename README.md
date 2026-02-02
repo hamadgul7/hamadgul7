@@ -55,8 +55,6 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 
 
 
-## 📊 GitHub Commits:
-<img src="https://raw.githubusercontent.com/hamadgul7/hamadgul7/output/snake.svg" alt="Snake animation" />
 <!-- ## 🔝 Top Contributed Repos
 ![Top Contributors](https://github-contributor-stats.vercel.app/api?username=hamadgul7&limit=5&theme=default)
 -->
