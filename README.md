@@ -7,10 +7,6 @@
 # 💫 About Me:
 Motivated backend developer with a strong focus on Node.js. I enjoy building scalable APIs, working with databases, and<br>writing clean, efficient code. I’m passionate about backend development and always eager to learn by working on real-world<br>projects. I’m looking to join a team where I can grow and contribute to building reliable, high-quality applications.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamadgul7)
-
 ---
 
 ## 🌟 Portfolio
@@ -24,7 +20,7 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack: <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamadgul7&label=Profile%20views&color=0e75b6&style=flat" alt="hamadgul7" /> </p>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
@@ -59,6 +55,8 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamadgul7)
 
 
 <!-- ## 🔝 Top Contributed Repos
