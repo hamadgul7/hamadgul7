@@ -26,12 +26,13 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 
 ## 🔥 GitHub Streak:
 ![](https://nirzak-streak-stats.vercel.app/?user=hamadgul7&theme=dark&hide_border=false)
+<a href="http://www.github.com/hamadgul7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadgul7&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 
 ## 📊 GitHub Stats:
-## ![](https://github-readme-stats.vercel.app/api?username=hamadgul7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<a href="http://www.github.com/hamadgul7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadgul7&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](https://github-readme-stats.vercel.app/api?username=hamadgul7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamadgul7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
