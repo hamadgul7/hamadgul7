@@ -25,9 +25,8 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 ---
 
 ## 🔥 GitHub Streak:
-<a href="http://www.github.com/hamadgul7">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadgul7&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+![](https://nirzak-streak-stats.vercel.app/?user=hamadgul7&theme=dark&hide_border=false)
+
 
 
 ---
