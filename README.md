@@ -48,7 +48,11 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 
 
 ## Test
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadgul7&" alt="hamadgul7" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadgul7&theme=dark&hide_border=true"
+       alt="GitHub Streak Stats - hamadgul7" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
