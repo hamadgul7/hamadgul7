@@ -36,7 +36,7 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 
 ---
 
-## 🔝 Top Contributed Repos:
+## 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=hamadgul7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
