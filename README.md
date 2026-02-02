@@ -2,6 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+---
+
 # 💫 About Me:
 Motivated backend developer with a strong focus on Node.js. I enjoy building scalable APIs, working with databases, and<br>writing clean, efficient code. I’m passionate about backend development and always eager to learn by working on real-world<br>projects. I’m looking to join a team where I can grow and contribute to building reliable, high-quality applications.
 
