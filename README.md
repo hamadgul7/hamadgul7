@@ -12,8 +12,6 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 ## 👁️ Profile Views:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamadgul7&label=Profile%20views&color=0e75b6&style=flat" alt="hamadgul7" /> </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamadgul7&stats_format=bytes)
-
 ---
 
 ## 💻 Tech Stack:
@@ -40,9 +38,7 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 <!-- 
 ![](https://nirzak-streak-stats.vercel.app/?user=hamadgul7&theme=dark&hide_border=false)
 -->
-
----
-
+<!--
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamadgul7&stats_format=bytes)
