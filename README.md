@@ -28,6 +28,7 @@ Motivated backend developer with a strong focus on Node.js. I enjoy building sca
 ![Cypress](https://img.shields.io/badge/cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
